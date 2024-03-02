@@ -30,10 +30,6 @@ This GitHub repository contains a Power BI project aimed at analyzing data from 
 
 ![image](https://github.com/MuskanKhandelia/Online_Food_Delivery_Analysis/assets/65664089/3bc9575f-88c8-44c8-aa66-2f9f20262685)
 
-![image](https://github.com/MuskanKhandelia/Online_Food_Delivery_Analysis/assets/65664089/56bd1ff3-80f4-4590-8847-40cbb0691c6c)
+![image](https://github.com/MuskanKhandelia/Online_Food_Delivery_Analysis/assets/65664089/9c9c575c-9e79-48c9-b36a-8b0ac57eb8b1)
 
 ![image](https://github.com/MuskanKhandelia/Online_Food_Delivery_Analysis/assets/65664089/21d9e74b-c485-4dde-b072-c8f80f6a8672)
-
-
-
-
