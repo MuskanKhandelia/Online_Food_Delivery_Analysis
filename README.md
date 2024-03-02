@@ -28,10 +28,12 @@ This GitHub repository contains a Power BI project aimed at analyzing data from 
 
 - Images were strategically placed with interactive actions, enabling seamless navigation between different reports.
 
-![image](https://github.com/MuskanKhandelia/Online_Food_Delivery_Analysis/assets/65664089/1f85477c-fac9-498c-a038-1274722cb6a9)
+![image](https://github.com/MuskanKhandelia/Online_Food_Delivery_Analysis/assets/65664089/3bc9575f-88c8-44c8-aa66-2f9f20262685)
 
-![image](https://github.com/MuskanKhandelia/Online_Food_Delivery_Analysis/assets/65664089/b5998b73-796c-454d-9337-13e52df95605)
+![image](https://github.com/MuskanKhandelia/Online_Food_Delivery_Analysis/assets/65664089/56bd1ff3-80f4-4590-8847-40cbb0691c6c)
 
-![image](https://github.com/MuskanKhandelia/Online_Food_Delivery_Analysis/assets/65664089/6a0e57c8-4372-4a6d-a355-20a7fd373979)
+![image](https://github.com/MuskanKhandelia/Online_Food_Delivery_Analysis/assets/65664089/21d9e74b-c485-4dde-b072-c8f80f6a8672)
+
+
 
 
